@@ -2,6 +2,10 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.4.1",
+    "node": "v10.13.0"
+  },
   "dependencies": {
     "@handsontable-pro/react": "^2.1.0",
     "@handsontable/react": "^2.1.0",
