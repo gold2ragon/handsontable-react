@@ -321,7 +321,7 @@ class App extends Component {
           columnSorting={this.columnSorting}
           autoColumnSize={this.autoColumnSize}
           mergeCells={true}
-          contextMenu={false}
+          contextMenu={true}
           manualRowResize={true}
           manualColumnResize={true}
           manualRowMove={true}
