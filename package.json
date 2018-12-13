@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@handsontable-pro/react": "^2.1.0",
+    "@handsontable/react": "^2.1.0",
+    "handsontable": "^6.2.1",
+    "handsontable-pro": "^6.2.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
